@@ -7,3 +7,11 @@ It allows following main functionalites:
   - Give reply on a mail
   - Archive mail
   
+## Requirements
+You must have **Django** extension in vscode along with **python3** installed in your system.
+## Instructions to run code
+Run following command in terminal:
+`cd mail`
+`python manage.py runserver`
+
+>**NOTE:** *This will run the app wiki on your system's localserver*
